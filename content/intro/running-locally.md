@@ -91,9 +91,8 @@ To build the project, run:
 
 ```console
 $ git clone https://github.com/deislabs/hippo
-$ cd hippo/src/Hippo
+$ cd hippo/src/Web/
 $ dotnet restore
-$ npm run build
 ```
 
 Then run hippo-server, pointing at your local Bindle instance:
